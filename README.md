@@ -1,5 +1,7 @@
 # packing-glob
 
+[![NPM](https://nodei.co/npm/packing-glob.png)](https://nodei.co/npm/packing-glob/)
+
 基于glob的文件选择器
 
 * 支持minmatch的所有参数
