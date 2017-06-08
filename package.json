@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhongzhi107/packing-glob.git"
+    "url": "git+https://github.com/packingjs/packing-glob.git"
   },
   "keywords": [
     "glob"
@@ -16,9 +16,9 @@
   "author": "zhongzhi <zhong.zhi@163.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhongzhi107/packing-glob/issues"
+    "url": "https://github.com/packingjs/packing-glob/issues"
   },
-  "homepage": "https://github.com/zhongzhi107/packing-glob#readme",
+  "homepage": "https://github.com/packingjs/packing-glob#readme",
   "dependencies": {
     "glob": "^7.0.5",
     "lodash": "^4.14.0"
